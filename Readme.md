@@ -7,7 +7,7 @@
 #### Capo I: Della imputabilità
 
 * Artt. 85: Capacità d'intendere e di volere
- > Nessuno può essere punito per un fatto preveduto dalla legge come reato.
+ > Nessuno può essere punito per un fatto preveduto dalla legge come reato,
  > se, al momento in cui lo ha commesso, non era imputabile.
  > E imputabile chi ha la capacità dintendere e di volere. 
 
