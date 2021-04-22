@@ -159,16 +159,55 @@
 
 #### Capo I: Dei delitti contro l'attività giudiziaria
 
+* Artt. 361: Omessa denuncia di reato da parte del pubblico ufficiale
+ > Il pubblico ufficiale, il quale omette o ritarda di denunciare all'Autorità
+ > giudiziaria, o ad un'altra Autorità che a quella abbia obbligo di riferirne,
+ > un reato di cui ha avuto notizia nell'esercizio o a causa delle sue 
+ > funzioni, è punito con la multa da euro 30 a euro 516.
+ > La pena è della reclusione fino ad un anno, se il colpevole è un ufficiale o
+ > un agente di polizia giudiziaria, che ha avuto comunque notizia di un reato 
+ > del quale doveva fare rapporto.
+ > Le disposizioni precedenti non si applicano se si tratta di delitto punibile 
+ > a querela della persona offesa.
+
 * Artt. 365: Omissione di referto
  > Chiunque, avendo nell'esercizio di una professione sanitaria prestato 
  > la propria assistenza od opera in casi che possono presentare i caratteri 
  > di un delitto per il quale si debba procedere d'ufficio, omette o ritarda 
  > di riferirne all'Autorità indicata nell'articolo 361, è punito 
  > con la multa fino a cinquecentosedici euro.
+ > Questa disposizione non si applica quando il referto esporrebbe la persona
+ > assistita a procedimento penale.
 
 ### Titolo XII: Dei delitti contro la persona
 
 #### Capo I: Dei delitti contro la vita e l'incolumità individuale
+
+* Artt. 582: Lesione personale
+ > Chiunque cagiona ad alcuno una lesione personale, dalla quale deriva una
+ > malattia nel corpo o nella mente, è punito con la reclusione da sei mesi 
+ > a tre anni.
+ > Se la malattia ha una durata non superiore ai venti giorni e non concorre
+ > alcuna delle circostanze aggravanti prevedute negli articoli 61, 583 e 585,
+ > ad eccezione di quelle indicate nel numero 1 e nell'ultima parte dell'articolo > 577, il delitto è punibile a querela della persona offesa.
+
+* Artt. 583: Circostanze aggravanti
+ > La lesione personale è grave e si applica la reclusione da tre a sette anni:
+ > 1. Se dal fatto deriva una malattia che metta in pericolo la vita della
+ > persona offesa, ovvero una malattia o un'incapacità di attendere alle 
+ > ordinarie occupazioni per un tempo superiore ai quaranta giorni
+ > 2. Se il fatto produce l'indebolimento permanente di un senso o di un organo
+ > 3. Se la persona offesa è una donna incinta e dal fatto deriva 
+ > l'acceleramento del parto
+ > La lesione personale è gravissima, e si applica la reclusione da sei a dodici
+ > anni, se dal fatto deriva:
+ > 1. Una malattia certamente o probabilmente insanabile
+ > 2. La perdita di un senso
+ > 3. La perdita di un arto, o una mutilazione che renda l'arto inservibile,
+ > ovvero la perdita dell'uso di un organo o della capacità di procreare, 
+ > ovvero una permanente e grave difficoltà della favella
+ > 4. La deformazione, ovvero lo sfregio permanente del viso
+ > 5. L'aborto della persona offesa
 
 * Artt. 590: Lesioni personali colpose
  > Chiunque cagiona ad altri per colpa una lesione personale è punito con la 
